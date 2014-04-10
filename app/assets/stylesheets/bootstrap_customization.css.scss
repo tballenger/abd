@@ -1,1 +1,69 @@
-@import 'bootstrap'
+$navbar-default-bg: #fff;
+$headings-font-family: Roboto;
+$font-size-base: 15px;
+
+@import 'bootstrap';
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300);
+
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+  padding-top: 60px;
+}
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #3f3f3f;
+  padding: 20px;
+  color: #fff;
+}
+
+
+.center{
+	text-align: center;
+}
+.heading{
+	margin-bottom: 30px;
+}
+.heading span{
+	padding-bottom: 5px;
+	border-bottom: 3px solid #bfbfbf;
+}
+#home-hero{
+	background-color: #1abc9c;
+	padding: 80px 0;
+	color: #fff;
+	margin-top: -10px;
+}
+#short-features{
+	margin: 30px 0;
+}
+#iphone-info{
+	background-color: #f3f3f3;
+	padding: 50px;
+}
+#iphone-info .heading{
+	margin-bottom: 50px;
+}
+
+#iphone-info .carousel-indicators{
+	position: relative;
+	margin-left: 0;
+	left: inherit;
+	width: inherit;
+	bottom: inherit;
+	text-align: left;
+
+}
+#iphone-info .carousel-indicators li{
+	border: 1px solid #dcdcdc;
+}
