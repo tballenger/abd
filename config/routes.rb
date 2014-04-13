@@ -6,6 +6,7 @@ Rails.application.routes.draw do
   get 'financials' => 'loggedin#financials'
   get 'community' => 'loggedin#community'
   get 'tenants' => 'loggedin#tenants'
+  get 'tenantdetail' => 'loggedin#tenantdetail'
 
   root 'pages#home'
 

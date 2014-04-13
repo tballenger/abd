@@ -44,10 +44,11 @@ body {
 	border-bottom: 3px solid #bfbfbf;
 }
 #home-hero{
-	background-color: #34495e;
+	text-align: center;
+  background-color: #34495e;
 	padding: 80px 0;
 	color: #fff;
-	margin-top: -20px;
+	margin-top: -30px;
 }
 #short-features{
 	margin: 30px 0;
@@ -111,15 +112,29 @@ body {
 }
 //
 .kpi{
-	background-color: #2980b9;
+	background-color: #7f8c8d;
 	color: #fff;
 	padding: 10px;
 	border-radius: 4px;
 }
 .kpi h1{
 	font-weight: bold;
+  padding-top: 20px; 
+  margin-bottom: 0 !important;
+}
+.kpi span{
+  padding-bottom: 20px;
 }
 //logged in
 .table > thead > tr > th{
 	vertical-align: middle;
+}
+#dashboard-activity .row{
+  margin-bottom: 20px;
+}
+#tenantDetailNav{
+  margin-bottom: 20px;
+}
+.dl-horizontal dt{
+  text-align: left;
 }

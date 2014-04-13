@@ -19,4 +19,7 @@ class LoggedinController < ApplicationController
 
   def tenants
   end
+
+  def tenantdetail
+  end
 end
