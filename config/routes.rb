@@ -1,5 +1,12 @@
 Rails.application.routes.draw do
   
+  get 'dashboard' => 'loggedin#dashboard'
+  get 'messages' => 'loggedin#messages'
+  get 'maintenance' => 'loggedin#maintenance'
+  get 'financials' => 'loggedin#financials'
+  get 'community' => 'loggedin#community'
+  get 'tenants' => 'loggedin#tenants'
+
   root 'pages#home'
 
   get 'home' => 'pages#home'
@@ -7,6 +14,8 @@ Rails.application.routes.draw do
   get 'terms' => 'pages#terms'
   get 'privacy' => 'pages#privacy'
   get 'dashboard' => 'pages#dashboard'
+  get 'signin' => 'pages#signin'
+  
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

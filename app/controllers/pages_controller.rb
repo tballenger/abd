@@ -13,4 +13,8 @@ class PagesController < ApplicationController
 
   def contact
   end
+
+  def signin
+  end
+  
 end

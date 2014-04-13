@@ -1,6 +1,5 @@
 $navbar-default-bg: #fff;
 $headings-font-family: Roboto;
-$font-size-base: 15px;
 
 @import 'bootstrap';
 
@@ -14,8 +13,14 @@ html {
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
-  padding-top: 60px;
+  padding-top: 80px;
 }
+
+#loggedin-wrapper h1{
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+
 #footer {
   position: absolute;
   bottom: 0;
@@ -39,10 +44,10 @@ body {
 	border-bottom: 3px solid #bfbfbf;
 }
 #home-hero{
-	background-color: #1abc9c;
+	background-color: #34495e;
 	padding: 80px 0;
 	color: #fff;
-	margin-top: -10px;
+	margin-top: -20px;
 }
 #short-features{
 	margin: 30px 0;
@@ -66,4 +71,55 @@ body {
 }
 #iphone-info .carousel-indicators li{
 	border: 1px solid #dcdcdc;
+}
+
+//signin
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+//
+.kpi{
+	background-color: #2980b9;
+	color: #fff;
+	padding: 10px;
+	border-radius: 4px;
+}
+.kpi h1{
+	font-weight: bold;
+}
+//logged in
+.table > thead > tr > th{
+	vertical-align: middle;
 }
