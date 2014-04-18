@@ -13,7 +13,8 @@
 <div id="loggedin-wrapper">
 <div class="container">
 <!--menu partial-->
-<div class="col-md-3 list-group">
+<div class="col-md-3">
+<div class="list-group">
 	<%= link_to "Dashboard", dashboard_path, :class  => action_name == 'dashboard' ? 'clickable list-group-item active' : 'clickable list-group-item' %>
 	<%= link_to "Tenants", tenants_path, :class => action_name == 'tenants' ? 'clickable list-group-item active' : 'clickable list-group-item' %>
 	<%= link_to messages_path, :class => action_name == 'messages' ? 'clickable list-group-item active' : 'clickable list-group-item' do %>
@@ -21,10 +22,17 @@
 	Messages
 	<%end%>
 	<%= link_to "Maintenance", maintenance_path, :class => action_name == 'maintenance' ? 'clickable list-group-item active' : 'clickable list-group-item' %>
-	<%= link_to "Financials", financials_path, :class => action_name == 'financials' ? 'clickable list-group-item active' : 'clickable list-group-item' %>
+
 	<%= link_to "Community", community_path, :class => action_name == 'community' ? 'clickable list-group-item active' : 'clickable list-group-item' %>
+
+</div>
+<br>
+<%= link_to "All Properties", properties_path, :class => "btn btn-block btn-default" %>
+
 </div>
 <!--end-->
+
+
 
 
 <div class="col-md-9">

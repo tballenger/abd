@@ -11,9 +11,6 @@ class LoggedinController < ApplicationController
   def maintenance
   end
 
-  def financials
-  end
-
   def community
   end
 
@@ -22,4 +19,8 @@ class LoggedinController < ApplicationController
 
   def tenantdetail
   end
+
+  def properties
+  end
+
 end

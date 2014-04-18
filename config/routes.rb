@@ -1,9 +1,9 @@
 Rails.application.routes.draw do
   
+  get 'properties' => 'loggedin#properties'
   get 'dashboard' => 'loggedin#dashboard'
   get 'messages' => 'loggedin#messages'
   get 'maintenance' => 'loggedin#maintenance'
-  get 'financials' => 'loggedin#financials'
   get 'community' => 'loggedin#community'
   get 'tenants' => 'loggedin#tenants'
   get 'tenantdetail' => 'loggedin#tenantdetail'
@@ -12,6 +12,7 @@ Rails.application.routes.draw do
 
   get 'home' => 'pages#home'
   get 'about' => 'pages#about'
+  get 'contact' => 'pages#contact'
   get 'terms' => 'pages#terms'
   get 'privacy' => 'pages#privacy'
   get 'dashboard' => 'pages#dashboard'
