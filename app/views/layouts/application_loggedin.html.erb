@@ -27,7 +27,7 @@
 
 </div>
 <br>
-<%= link_to "All Properties", properties_path, :class => "btn btn-block btn-default" %>
+<%= link_to "All Properties", properties_path, :class => action_name == 'properties' ? "clickable btn btn-block btn-primary" : "clickable btn btn-block btn-default" %>
 
 </div>
 <!--end-->

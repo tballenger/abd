@@ -1,1 +1,25 @@
+<a href="#" class="btn btn-primary pull-right">Add New Property</a>
+
 <h1>All Properties</h1>
+
+
+<table class="table">
+	<thead>
+		<th>Name</th>
+		<th>Address</th>
+		<th>City</th>
+		<th>State</th>
+		<th>Zipcode</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Barrington Ave Apartments</td>
+			<td>123 Barrington Ave.</td>
+			<td>Brentwood</td>
+			<td>CA</td>
+			<td>90230</td>
+			<td><%= link_to "View", dashboard_path, :class => 'btn btn-sm btn-primary'%></td>
+		</tr>
+		
+	</tbody>
+</table>
