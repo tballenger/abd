@@ -1,16 +1,25 @@
-$navbar-default-bg: #fff;
+$navbar-default-bg: rgb(35,188,237);
+$navbar-default-link-color: #fff;
 $headings-font-family: Roboto;
-$brand-primary: #08E0B9;
+$brand-primary: rgb(35,188,237);
+$btn-primary-border: #fff;
+//#08E0B9
 
 @import 'bootstrap';
 
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,700,300);
 
+.btn-primary{
+      &:hover{
+           background-color: #08E0B9;
+      }
+}
 
 html {
   position: relative;
   min-height: 100%;
 }
+
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
@@ -59,7 +68,10 @@ body {
 }
 #home-hero{
 	text-align: center;
-  background-color: rgb(35,188,237);
+  //background-color: rgb(35,188,237);
+  background-image: url(http://t.wallpaperweb.org/wallpaper/buildings/1920x1080/Cityscapes_28.jpg);
+  background-position:center; 
+  background-size: cover;
 	padding: 80px 0;
 	color: #fff;
 	margin-top: -30px;
