@@ -21,7 +21,10 @@
 	<span class="badge">14</span>
 	Messages
 	<%end%>
-	<%= link_to "Maintenance", maintenance_path, :class => action_name == 'maintenance' ? 'clickable list-group-item active' : 'clickable list-group-item' %>
+	<%= link_to allmaintenance_path, :class => action_name == 'allmaintenance' ? 'clickable list-group-item active' : 'clickable list-group-item' do %>
+	<span class="badge">1</span>
+	Maintenance
+	<%end%>
 
 	<%= link_to "Community", community_path, :class => action_name == 'community' ? 'clickable list-group-item active' : 'clickable list-group-item' %>
 

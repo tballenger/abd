@@ -47902,3 +47902,5242 @@ Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-28 21:02:13 -0700
 
 
 Started GET "/assets/fontawesome-webfont.woff" for 127.0.0.1 at 2014-04-28 21:02:13 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-30 08:59:45 -0700
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.4ms)
+  Rendered layouts/_header.html.erb (2.2ms)
+  Rendered layouts/_footer.html.erb (0.6ms)
+Completed 200 OK in 870ms (Views: 855.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 15ms (Views: 14.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/assets/fontawesome-webfont.woff" for 127.0.0.1 at 2014-04-30 08:59:46 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.8ms)
+  Rendered layouts/_header.html.erb (1.5ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 121ms (Views: 108.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/assets/fontawesome-webfont.woff" for 127.0.0.1 at 2014-04-30 09:02:09 -0700
+
+
+Started GET "/contact" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/assets/fontawesome-webfont.woff" for 127.0.0.1 at 2014-04-30 09:02:44 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2014-04-30 09:02:58 -0700
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (5.5ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 17ms (Views: 16.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:02:58 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:02:59 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.7ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 15ms (Views: 13.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:02:59 -0700
+
+
+Started GET "/community" for 127.0.0.1 at 2014-04-30 09:19:28 -0700
+Processing by LoggedinController#community as HTML
+  Rendered loggedin/community.html.erb within layouts/application_loggedin (0.6ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 16ms (Views: 15.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:28 -0700
+
+
+Started GET "/maintenance" for 127.0.0.1 at 2014-04-30 09:19:29 -0700
+Processing by LoggedinController#maintenance as HTML
+  Rendered loggedin/maintenance.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 12.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:29 -0700
+
+
+Started GET "/messages" for 127.0.0.1 at 2014-04-30 09:19:29 -0700
+Processing by LoggedinController#messages as HTML
+  Rendered loggedin/messages.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 12ms (Views: 11.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:29 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:19:30 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 12ms (Views: 11.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:30 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:19:31 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 12ms (Views: 11.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:31 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:19:38 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 10ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:38 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:19:39 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:39 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:19:40 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:40 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:19:40 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:40 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:19:40 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:40 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:19:40 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 12.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:40 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:19:40 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:40 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:19:40 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:40 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:19:41 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:41 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:19:42 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:42 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:19:43 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 11ms (Views: 10.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:43 -0700
+
+
+Started GET "/messages" for 127.0.0.1 at 2014-04-30 09:19:43 -0700
+Processing by LoggedinController#messages as HTML
+  Rendered loggedin/messages.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 12ms (Views: 10.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:43 -0700
+
+
+Started GET "/maintenance" for 127.0.0.1 at 2014-04-30 09:19:44 -0700
+Processing by LoggedinController#maintenance as HTML
+  Rendered loggedin/maintenance.html.erb within layouts/application_loggedin (0.0ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:44 -0700
+
+
+Started GET "/community" for 127.0.0.1 at 2014-04-30 09:19:44 -0700
+Processing by LoggedinController#community as HTML
+  Rendered loggedin/community.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 13ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:44 -0700
+
+
+Started GET "/maintenance" for 127.0.0.1 at 2014-04-30 09:19:44 -0700
+Processing by LoggedinController#maintenance as HTML
+  Rendered loggedin/maintenance.html.erb within layouts/application_loggedin (0.0ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:44 -0700
+
+
+Started GET "/messages" for 127.0.0.1 at 2014-04-30 09:19:45 -0700
+Processing by LoggedinController#messages as HTML
+  Rendered loggedin/messages.html.erb within layouts/application_loggedin (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:45 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:19:45 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:45 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:19:46 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 12.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:46 -0700
+
+
+Started GET "/community" for 127.0.0.1 at 2014-04-30 09:19:55 -0700
+Processing by LoggedinController#community as HTML
+  Rendered loggedin/community.html.erb within layouts/application_loggedin (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 12ms (Views: 11.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:55 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:19:56 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 12ms (Views: 11.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:19:56 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:36:39 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 12.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:36:39 -0700
+
+
+Started GET "/messages" for 127.0.0.1 at 2014-04-30 09:36:39 -0700
+Processing by LoggedinController#messages as HTML
+  Rendered loggedin/messages.html.erb within layouts/application_loggedin (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 11.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:36:39 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:36:40 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 12ms (Views: 11.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:36:40 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:37:00 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:37:01 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:37:01 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:37:02 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 12ms (Views: 11.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:37:02 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:40:02 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 16ms (Views: 15.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:40:02 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.4ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:40:58 -0700
+
+
+Started GET "/messages" for 127.0.0.1 at 2014-04-30 09:40:59 -0700
+Processing by LoggedinController#messages as HTML
+  Rendered loggedin/messages.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 15ms (Views: 14.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:40:59 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:41:00 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 12.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:41:00 -0700
+
+
+Started GET "/messages" for 127.0.0.1 at 2014-04-30 09:41:00 -0700
+Processing by LoggedinController#messages as HTML
+  Rendered loggedin/messages.html.erb within layouts/application_loggedin (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 12ms (Views: 11.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:41:01 -0700
+
+
+Started GET "/messages" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+Processing by LoggedinController#messages as HTML
+  Rendered loggedin/messages.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:41:15 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:41:17 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 15ms (Views: 14.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:41:17 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:41:17 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 16ms (Views: 15.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:41:17 -0700
+
+
+Started GET "/maintenance" for 127.0.0.1 at 2014-04-30 09:41:18 -0700
+Processing by LoggedinController#maintenance as HTML
+  Rendered loggedin/maintenance.html.erb within layouts/application_loggedin (0.0ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:41:18 -0700
+
+
+Started GET "/messages" for 127.0.0.1 at 2014-04-30 09:41:19 -0700
+Processing by LoggedinController#messages as HTML
+  Rendered loggedin/messages.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:41:19 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:41:23 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 12ms (Views: 11.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:41:23 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:41:23 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 12.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:41:23 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:41:24 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 11ms (Views: 10.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:41:24 -0700
+
+
+Started GET "/messages" for 127.0.0.1 at 2014-04-30 09:41:25 -0700
+Processing by LoggedinController#messages as HTML
+  Rendered loggedin/messages.html.erb within layouts/application_loggedin (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:41:25 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:41:30 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:41:31 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:41:33 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 16ms (Views: 15.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:41:33 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:42:21 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.4ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:42:21 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:42:21 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:42:21 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:42:21 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:21 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:42:21 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:21 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:21 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:21 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:21 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:21 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:22 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:22 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:22 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:22 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:22 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:22 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:22 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:22 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:22 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:22 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:22 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:22 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:22 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:42:22 -0700
+
+
+Started GET "/assets/fontawesome-webfont.woff" for 127.0.0.1 at 2014-04-30 09:42:22 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 10ms (Views: 9.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:35 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:42:44 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.6ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:44:02 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:44:20 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 16ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:44:20 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:44:21 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:44:21 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:44:28 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:44:28 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:44:28 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:44:28 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:28 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:44:28 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:44:28 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:28 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:28 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:28 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:28 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:28 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:28 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:28 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:28 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:28 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:28 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:28 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:28 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:28 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:29 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:29 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:29 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:29 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:44:29 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:44:29 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:44:31 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 14ms (Views: 13.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:44:31 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:44:32 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 12.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:44:32 -0700
+
+
+Started GET "/tenantdetail" for 127.0.0.1 at 2014-04-30 09:44:52 -0700
+Processing by LoggedinController#tenantdetail as HTML
+  Rendered loggedin/tenantdetail.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 12.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:44:52 -0700
+
+
+Started GET "/tenantdetail" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+Processing by LoggedinController#tenantdetail as HTML
+  Rendered loggedin/tenantdetail.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:45:23 -0700
+
+
+Started GET "/tenantdetail" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+Processing by LoggedinController#tenantdetail as HTML
+  Rendered loggedin/tenantdetail.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:45:26 -0700
+
+
+Started GET "/tenantdetail" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+Processing by LoggedinController#tenantdetail as HTML
+  Rendered loggedin/tenantdetail.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:45:30 -0700
+
+
+Started GET "/tenantdetail" for 127.0.0.1 at 2014-04-30 09:45:32 -0700
+Processing by LoggedinController#tenantdetail as HTML
+  Rendered loggedin/tenantdetail.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:45:32 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:45:32 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:45:32 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:45:32 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:32 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:45:32 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:32 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:32 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:32 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:32 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:32 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:32 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:32 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:32 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:33 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:33 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:33 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:33 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:33 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:33 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:33 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:33 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:33 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:45:33 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:45:33 -0700
+
+
+Started GET "/tenantdetail" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+Processing by LoggedinController#tenantdetail as HTML
+  Rendered loggedin/tenantdetail.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:46:03 -0700
+
+
+Started GET "/tenantdetail" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+Processing by LoggedinController#tenantdetail as HTML
+  Rendered loggedin/tenantdetail.html.erb within layouts/application_loggedin (0.4ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:46:17 -0700
+
+
+Started GET "/tenantdetail" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+Processing by LoggedinController#tenantdetail as HTML
+  Rendered loggedin/tenantdetail.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:46:27 -0700
+
+
+Started GET "/messages" for 127.0.0.1 at 2014-04-30 09:46:45 -0700
+Processing by LoggedinController#messages as HTML
+  Rendered loggedin/messages.html.erb within layouts/application_loggedin (0.0ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:46:45 -0700
+
+
+Started GET "/messages" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+Processing by LoggedinController#messages as HTML
+  Rendered loggedin/messages.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:47:32 -0700
+
+
+Started GET "/messages" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+Processing by LoggedinController#messages as HTML
+  Rendered loggedin/messages.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 10ms (Views: 9.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:47:52 -0700
+
+
+Started GET "/messages" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+Processing by LoggedinController#messages as HTML
+  Rendered loggedin/messages.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:47:57 -0700
+
+
+Started GET "/messages" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+Processing by LoggedinController#messages as HTML
+  Rendered loggedin/messages.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:48:40 -0700
+
+
+Started GET "/messages" for 127.0.0.1 at 2014-04-30 09:48:50 -0700
+Processing by LoggedinController#messages as HTML
+  Rendered loggedin/messages.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:48:50 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:48:51 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:48:52 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:48:52 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:48:52 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 12.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:48:52 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:49:40 -0700
+
+
+Started GET "/maintenance" for 127.0.0.1 at 2014-04-30 09:49:42 -0700
+Processing by LoggedinController#maintenance as HTML
+  Rendered loggedin/maintenance.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 12.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:49:42 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:49:43 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:49:43 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:49:43 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 12.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:49:43 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:50:55 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.7ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 12.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:50:55 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.4ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:50:56 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:51:32 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.4ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:51:54 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.4ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:52:04 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.4ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:52:42 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:52:45 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.8ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 15ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:52:45 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:52:45 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.6ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 16ms (Views: 14.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:52:45 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:52:47 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:52:47 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:52:48 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:52:48 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:52:49 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 18ms (Views: 17.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:52:49 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:52:51 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:52:51 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:52:52 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 12ms (Views: 11.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:52:52 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:52:53 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:52:53 -0700
+
+
+Started GET "/messages" for 127.0.0.1 at 2014-04-30 09:52:56 -0700
+Processing by LoggedinController#messages as HTML
+  Rendered loggedin/messages.html.erb within layouts/application_loggedin (0.4ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 14ms (Views: 12.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:52:56 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:52:57 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:52:57 -0700
+
+
+Started GET "/messages" for 127.0.0.1 at 2014-04-30 09:52:58 -0700
+Processing by LoggedinController#messages as HTML
+  Rendered loggedin/messages.html.erb within layouts/application_loggedin (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 15ms (Views: 14.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:52:58 -0700
+
+
+Started GET "/maintenance" for 127.0.0.1 at 2014-04-30 09:52:59 -0700
+Processing by LoggedinController#maintenance as HTML
+  Rendered loggedin/maintenance.html.erb within layouts/application_loggedin (0.0ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 14ms (Views: 13.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:52:59 -0700
+
+
+Started GET "/community" for 127.0.0.1 at 2014-04-30 09:52:59 -0700
+Processing by LoggedinController#community as HTML
+  Rendered loggedin/community.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:52:59 -0700
+
+
+Started GET "/maintenance" for 127.0.0.1 at 2014-04-30 09:53:01 -0700
+Processing by LoggedinController#maintenance as HTML
+  Rendered loggedin/maintenance.html.erb within layouts/application_loggedin (0.0ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:53:01 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:53:21 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:53:21 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:53:22 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.8ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 12.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:53:22 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:53:23 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 12.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:53:23 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:53:24 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 12.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:53:24 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:53:25 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 15ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:53:25 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:53:27 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 12ms (Views: 11.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:53:27 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:54:34 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.4ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:54:34 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:54:34 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:54:34 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:54:34 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:54:34 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:54:35 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:54:35 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:54:35 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:54:35 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:54:35 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:54:35 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:54:35 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:54:35 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:54:35 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:54:35 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:54:35 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:54:35 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:54:35 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:54:35 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:54:35 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:54:35 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:54:35 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:54:35 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:54:35 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:54:35 -0700
+
+
+Started GET "/propertydetail" for 127.0.0.1 at 2014-04-30 09:54:37 -0700
+Processing by LoggedinController#propertydetail as HTML
+  Rendered loggedin/propertydetail.html.erb within layouts/application_loggedin (0.7ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 12.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:54:37 -0700
+
+
+Started GET "/propertydetail" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+Processing by LoggedinController#propertydetail as HTML
+  Rendered loggedin/propertydetail.html.erb within layouts/application_loggedin (4.8ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:55:00 -0700
+
+
+Started GET "/propertydetail" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+Processing by LoggedinController#propertydetail as HTML
+  Rendered loggedin/propertydetail.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:55:24 -0700
+
+
+Started GET "/propertydetail" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+Processing by LoggedinController#propertydetail as HTML
+  Rendered loggedin/propertydetail.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:55:43 -0700
+
+
+Started GET "/messages" for 127.0.0.1 at 2014-04-30 09:55:53 -0700
+Processing by LoggedinController#messages as HTML
+  Rendered loggedin/messages.html.erb within layouts/application_loggedin (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 12.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:55:53 -0700
+
+
+Started GET "/maintenance" for 127.0.0.1 at 2014-04-30 09:55:56 -0700
+Processing by LoggedinController#maintenance as HTML
+  Rendered loggedin/maintenance.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 13ms (Views: 11.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:55:56 -0700
+
+
+Started GET "/propertydetail" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+Processing by LoggedinController#propertydetail as HTML
+  Rendered loggedin/propertydetail.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:56:31 -0700
+
+
+Started GET "/maintenance" for 127.0.0.1 at 2014-04-30 09:56:33 -0700
+Processing by LoggedinController#maintenance as HTML
+  Rendered loggedin/maintenance.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 12.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:56:33 -0700
+
+
+Started GET "/maintenance" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+Processing by LoggedinController#maintenance as HTML
+  Rendered loggedin/maintenance.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 14ms (Views: 13.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:57:24 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:57:26 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 15ms (Views: 14.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:57:26 -0700
+
+
+Started GET "/propertydetail" for 127.0.0.1 at 2014-04-30 09:57:27 -0700
+Processing by LoggedinController#propertydetail as HTML
+  Rendered loggedin/propertydetail.html.erb within layouts/application_loggedin (0.6ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:57:27 -0700
+
+
+Started GET "/propertydetail" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+Processing by LoggedinController#propertydetail as HTML
+  Rendered loggedin/propertydetail.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:58:03 -0700
+
+
+Started GET "/propertydetail" for 127.0.0.1 at 2014-04-30 09:58:41 -0700
+Processing by LoggedinController#propertydetail as HTML
+  Rendered loggedin/propertydetail.html.erb within layouts/application_loggedin (17.1ms)
+Completed 500 Internal Server Error in 18ms
+
+ActionView::Template::Error (undefined local variable or method `maintenancedetail_path' for #<#<Class:0x000001081fb068>:0x0000010874f898>):
+     98: 			<td>Broken Shower in Bathroom</td>
+     99: 			<td>Apt 321</td>
+    100: 			<td>Open</td>
+    101: 			<td><%= link_to "View", maintenancedetail_path %></td>
+    102: 		</tr>
+    103: 	</tbody>
+    104: </table>
+  app/views/loggedin/propertydetail.html.erb:101:in `_app_views_loggedin_propertydetail_html_erb___2195799929206577651_2218422400'
+
+
+  Rendered /Users/tballenger/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (0.9ms)
+  Rendered /Users/tballenger/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/tballenger/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (10.8ms)
+
+
+Started GET "/propertydetail" for 127.0.0.1 at 2014-04-30 09:58:54 -0700
+Processing by LoggedinController#propertydetail as HTML
+  Rendered loggedin/propertydetail.html.erb within layouts/application_loggedin (8.6ms)
+Completed 500 Internal Server Error in 10ms
+
+ActionView::Template::Error (undefined local variable or method `maintenace_path' for #<#<Class:0x000001081fb068>:0x000001084c73c8>):
+     98: 			<td>Broken Shower in Bathroom</td>
+     99: 			<td>Apt 321</td>
+    100: 			<td>Open</td>
+    101: 			<td><%= link_to "View", maintenace_path %></td>
+    102: 		</tr>
+    103: 	</tbody>
+    104: </table>
+  app/views/loggedin/propertydetail.html.erb:101:in `_app_views_loggedin_propertydetail_html_erb___2195799929206577651_2217094700'
+
+
+  Rendered /Users/tballenger/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (0.8ms)
+  Rendered /Users/tballenger/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/tballenger/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/gems/actionpack-4.1.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (8.8ms)
+
+
+Started GET "/propertydetail" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+Processing by LoggedinController#propertydetail as HTML
+  Rendered loggedin/propertydetail.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:59:01 -0700
+
+
+Started GET "/maintenance" for 127.0.0.1 at 2014-04-30 09:59:04 -0700
+Processing by LoggedinController#maintenance as HTML
+  Rendered loggedin/maintenance.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 12ms (Views: 11.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:59:04 -0700
+
+
+Started GET "/propertydetail" for 127.0.0.1 at 2014-04-30 09:59:22 -0700
+Processing by LoggedinController#propertydetail as HTML
+  Rendered loggedin/propertydetail.html.erb within layouts/application_loggedin (4.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:59:23 -0700
+
+
+Started GET "/maintenance" for 127.0.0.1 at 2014-04-30 09:59:24 -0700
+Processing by LoggedinController#maintenance as HTML
+  Rendered loggedin/maintenance.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:59:24 -0700
+
+
+Started GET "/maintenance" for 127.0.0.1 at 2014-04-30 09:59:25 -0700
+Processing by LoggedinController#maintenance as HTML
+  Rendered loggedin/maintenance.html.erb within layouts/application_loggedin (0.0ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:59:25 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:59:26 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:59:26 -0700
+
+
+Started GET "/maintenance" for 127.0.0.1 at 2014-04-30 09:59:27 -0700
+Processing by LoggedinController#maintenance as HTML
+  Rendered loggedin/maintenance.html.erb within layouts/application_loggedin (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 11.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:59:27 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:59:28 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 12ms (Views: 11.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:59:28 -0700
+
+
+Started GET "/messages" for 127.0.0.1 at 2014-04-30 09:59:28 -0700
+Processing by LoggedinController#messages as HTML
+  Rendered loggedin/messages.html.erb within layouts/application_loggedin (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 12ms (Views: 11.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:59:28 -0700
+
+
+Started GET "/community" for 127.0.0.1 at 2014-04-30 09:59:29 -0700
+Processing by LoggedinController#community as HTML
+  Rendered loggedin/community.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 18ms (Views: 17.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:59:29 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:59:30 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 12ms (Views: 11.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:59:30 -0700
+
+
+Started GET "/tenants" for 127.0.0.1 at 2014-04-30 09:59:31 -0700
+Processing by LoggedinController#tenants as HTML
+  Rendered loggedin/tenants.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 12.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:59:31 -0700
+
+
+Started GET "/messages" for 127.0.0.1 at 2014-04-30 09:59:32 -0700
+Processing by LoggedinController#messages as HTML
+  Rendered loggedin/messages.html.erb within layouts/application_loggedin (0.0ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 14ms (Views: 13.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:59:32 -0700
+
+
+Started GET "/maintenance" for 127.0.0.1 at 2014-04-30 09:59:33 -0700
+Processing by LoggedinController#maintenance as HTML
+  Rendered loggedin/maintenance.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:59:33 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:59:34 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:59:34 -0700
+
+
+Started GET "/propertydetail" for 127.0.0.1 at 2014-04-30 09:59:35 -0700
+Processing by LoggedinController#propertydetail as HTML
+  Rendered loggedin/propertydetail.html.erb within layouts/application_loggedin (0.8ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 12ms (Views: 11.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:59:35 -0700
+
+
+Started GET "/propertydetail" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+Processing by LoggedinController#propertydetail as HTML
+  Rendered loggedin/propertydetail.html.erb within layouts/application_loggedin (0.6ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:59:40 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 09:59:45 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 15ms (Views: 14.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 09:59:45 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:00:44 -0700
+
+
+Started GET "/maintenance" for 127.0.0.1 at 2014-04-30 10:00:47 -0700
+Processing by LoggedinController#maintenance as HTML
+  Rendered loggedin/maintenance.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:00:47 -0700
+
+
+Started GET "/maintenance" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+Processing by LoggedinController#maintenance as HTML
+  Rendered loggedin/maintenance.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/allmaintenance" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+Processing by LoggedinController#allmaintenance as HTML
+  Rendered loggedin/allmaintenance.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 14ms (Views: 13.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:01:11 -0700
+
+
+Started GET "/allmaintenance" for 127.0.0.1 at 2014-04-30 10:01:13 -0700
+Processing by LoggedinController#allmaintenance as HTML
+  Rendered loggedin/allmaintenance.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 10ms (Views: 9.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:01:13 -0700
+
+
+Started GET "/messages" for 127.0.0.1 at 2014-04-30 10:01:14 -0700
+Processing by LoggedinController#messages as HTML
+  Rendered loggedin/messages.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 13ms (Views: 11.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:01:14 -0700
+
+
+Started GET "/allmaintenance" for 127.0.0.1 at 2014-04-30 10:01:14 -0700
+Processing by LoggedinController#allmaintenance as HTML
+  Rendered loggedin/allmaintenance.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 12.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:01:14 -0700
+
+
+Started GET "/allmaintenance" for 127.0.0.1 at 2014-04-30 10:01:35 -0700
+Processing by LoggedinController#allmaintenance as HTML
+  Rendered loggedin/allmaintenance.html.erb within layouts/application_loggedin (0.4ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 11ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:01:36 -0700
+
+
+Started GET "/maintenance" for 127.0.0.1 at 2014-04-30 10:01:37 -0700
+Processing by LoggedinController#maintenance as HTML
+  Rendered loggedin/maintenance.html.erb within layouts/application_loggedin (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 12ms (Views: 11.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:01:37 -0700
+
+
+Started GET "/allmaintenance" for 127.0.0.1 at 2014-04-30 10:01:38 -0700
+Processing by LoggedinController#allmaintenance as HTML
+  Rendered loggedin/allmaintenance.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:01:38 -0700
+
+
+Started GET "/allmaintenance" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+Processing by LoggedinController#allmaintenance as HTML
+  Rendered loggedin/allmaintenance.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 12.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:01:51 -0700
+
+
+Started GET "/maintenance" for 127.0.0.1 at 2014-04-30 10:01:53 -0700
+Processing by LoggedinController#maintenance as HTML
+  Rendered loggedin/maintenance.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:01:53 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 10:01:55 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:01:55 -0700
+
+
+Started GET "/messages" for 127.0.0.1 at 2014-04-30 10:02:00 -0700
+Processing by LoggedinController#messages as HTML
+  Rendered loggedin/messages.html.erb within layouts/application_loggedin (0.0ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:02:00 -0700
+
+
+Started GET "/allmaintenance" for 127.0.0.1 at 2014-04-30 10:02:01 -0700
+Processing by LoggedinController#allmaintenance as HTML
+  Rendered loggedin/allmaintenance.html.erb within layouts/application_loggedin (0.6ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 15ms (Views: 14.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:02:01 -0700
+
+
+Started GET "/allmaintenance" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+Processing by LoggedinController#allmaintenance as HTML
+  Rendered loggedin/allmaintenance.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 10ms (Views: 9.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:02:41 -0700
+
+
+Started GET "/allmaintenance" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+Processing by LoggedinController#allmaintenance as HTML
+  Rendered loggedin/allmaintenance.html.erb within layouts/application_loggedin (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 9ms (Views: 8.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:02:43 -0700
+
+
+Started GET "/allmaintenance" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+Processing by LoggedinController#allmaintenance as HTML
+  Rendered loggedin/allmaintenance.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:02:46 -0700
+
+
+Started GET "/maintenance" for 127.0.0.1 at 2014-04-30 10:02:48 -0700
+Processing by LoggedinController#maintenance as HTML
+  Rendered loggedin/maintenance.html.erb within layouts/application_loggedin (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 17ms (Views: 16.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:02:48 -0700
+
+
+Started GET "/allmaintenance" for 127.0.0.1 at 2014-04-30 10:02:49 -0700
+Processing by LoggedinController#allmaintenance as HTML
+  Rendered loggedin/allmaintenance.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 14ms (Views: 13.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:02:49 -0700
+
+
+Started GET "/allmaintenance" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+Processing by LoggedinController#allmaintenance as HTML
+  Rendered loggedin/allmaintenance.html.erb within layouts/application_loggedin (0.5ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 10ms (Views: 9.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/animate.css?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/loggedin.css?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/bootstrap_customization.css?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/font-awesome.css?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/loggedin.js?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:03:20 -0700
+
+
+Started GET "/maintenance" for 127.0.0.1 at 2014-04-30 10:03:22 -0700
+Processing by LoggedinController#maintenance as HTML
+  Rendered loggedin/maintenance.html.erb within layouts/application_loggedin (0.0ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 12ms (Views: 11.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:03:22 -0700
+
+
+Started GET "/dashboard" for 127.0.0.1 at 2014-04-30 10:03:25 -0700
+Processing by LoggedinController#dashboard as HTML
+  Rendered loggedin/dashboard.html.erb within layouts/application_loggedin (0.2ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 15ms (Views: 14.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:03:25 -0700
+
+
+Started GET "/propertydetail" for 127.0.0.1 at 2014-04-30 10:03:26 -0700
+Processing by LoggedinController#propertydetail as HTML
+  Rendered loggedin/propertydetail.html.erb within layouts/application_loggedin (0.9ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 15ms (Views: 13.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/abohd-logo.png" for 127.0.0.1 at 2014-04-30 10:03:26 -0700

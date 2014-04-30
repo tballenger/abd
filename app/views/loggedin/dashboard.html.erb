@@ -2,6 +2,14 @@
 
 <h1>All Properties</h1>
 
+<div class="row">
+<div class="col-md-4">
+<div class="form-group">
+	<input class="form-control input-sm" placeholder="search">
+</div>
+</div>
+</div>
+
 
 <table class="table">
 	<thead>
@@ -10,6 +18,7 @@
 		<th>City</th>
 		<th>State</th>
 		<th>Zipcode</th>
+		<th>Rent</th>
 	</thead>
 	<tbody>
 		<tr>
@@ -18,7 +27,8 @@
 			<td>Brentwood</td>
 			<td>CA</td>
 			<td>90230</td>
-			<td><%= link_to "View", dashboard_path, :class => 'btn btn-sm btn-primary'%></td>
+			<td><span class="text-success"><i class="fa fa-check"></i> 4</span> / <span class="text-danger"><i class="fa fa-minus-circle"></i> 1</span></td>
+			<td><%= link_to "View", propertydetail_path, :class => 'btn btn-sm btn-primary'%></td>
 		</tr>
 		
 	</tbody>

@@ -1,14 +1,9 @@
-<a href="#" class="btn btn-primary pull-right">Add New Tenant</a>
+<a href="#" class="btn btn-default pull-right">Edit</a>
 
-<h1>All Tenants</h1>
+<h1>123 Barrington Ave</h1>
 
-<div class="row">
-<div class="col-md-4">
-<div class="form-group">
-	<input class="form-control input-sm" placeholder="search">
-</div>
-</div>
-</div>
+
+<h3>Tenants</h3>
 
 <table class="table">
 	<thead>
@@ -81,6 +76,30 @@
 			<td><a href="#" class="btn btn-default btn-sm">View</a>
 				<a href="#" class="btn btn-default btn-sm">Edit</a>
 				<a href="#" class="btn btn-default btn-sm">Delete</a></td>
+		</tr>
+	</tbody>
+</table>
+
+<h3>Maintenance Requests</h3>
+
+<table class="table">
+	<thead>
+		<th>Date</th>
+		<th>From</th>
+		<th>Name</th>
+		<th>Apt/Unit</th>
+		<th>Priority</th>
+		<th>Status</th>
+		<th></th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>3/4/14</td>
+			<td>Bob Smith</td>
+			<td><%= link_to "Broken Shower in Bathroom", maintenance_path %></td>
+			<td>Apt 321</td>
+			<td></td>
+			<td>Open</td>
 		</tr>
 	</tbody>
 </table>

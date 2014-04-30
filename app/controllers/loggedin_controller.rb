@@ -11,6 +11,10 @@ class LoggedinController < ApplicationController
   def maintenance
   end
 
+
+  def allmaintenance
+  end
+
   def community
   end
 

@@ -1,9 +1,11 @@
 Rails.application.routes.draw do
   
   get 'properties' => 'loggedin#properties'
+  get 'propertydetail' => 'loggedin#propertydetail'
   get 'dashboard' => 'loggedin#dashboard'
   get 'messages' => 'loggedin#messages'
   get 'maintenance' => 'loggedin#maintenance'
+  get 'allmaintenance' => 'loggedin#allmaintenance'
   get 'community' => 'loggedin#community'
   get 'tenants' => 'loggedin#tenants'
   get 'tenantdetail' => 'loggedin#tenantdetail'
