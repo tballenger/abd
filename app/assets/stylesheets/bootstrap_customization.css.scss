@@ -15,6 +15,18 @@ $btn-primary-border: #fff;
       }
 }
 
+.nav.navbar-nav.navbar-right a{
+  &:hover{
+       color: #08E0B9;
+  }
+}
+.navbar-brand{
+    &:hover{
+         color: #08E0B9 !important;
+    }
+}
+
+
 html {
   position: relative;
   min-height: 100%;
@@ -83,6 +95,12 @@ body {
 	background-color: #f3f3f3;
 	padding: 50px;
 }
+
+#side-by-side{
+  background-color: #f3f3f3;
+  padding: 50px;
+}
+
 #iphone-info .heading{
 	margin-bottom: 50px;
 }
@@ -274,4 +292,17 @@ line-height: 22px;
 #community-wrapper img {
  min-height: 40px;
  max-height: 40px;
+}
+#footer a{
+  color: #fff;
+}
+#footer a{
+  &:hover{
+       color: #08E0B9;
+       text-decoration: none;
+  }
+}
+
+#side-by-side .benefit .fa{
+  font-size: 50px;
 }

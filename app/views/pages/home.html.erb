@@ -4,7 +4,7 @@
 
 <h1 class="animated fadeInDown">Abohd Main Value Proposition Here</h1>
 <p class="lead">Sub heading goes here because that is important to have</p>
-<%= link_to "Get Started", signin_path, :class => 'animated fadeInUp btn btn-lg btn-primary' %>
+<a id="learnMore" href="#" class="btn btn-primary">Learn More</a>
 
 </div>
 
@@ -45,71 +45,114 @@
 </div>
 </div>
 
-<div id="iphone-info">
+<div id="side-by-side">
+
 <div class="container">
-
-<div class="center heading">
-	<h3><span>Download the iPhone App</span></h3>
-</div>
-
 <div class="row">
-	<div class="col-md-offset-2 col-md-4">
-		<img src="http://www.placehold.it/300x500">
+	<div class="col-md-6">
+		<div class="page-header">
+			<h3>For Landlords</h3>
+		</div>
+		<div class="row">
+			<div class="col-md-2 benefit">
+				<i class="fa fa-gears"></i>
+			</div>
+			<div class="col-md-10">
+				<h4>Benefit for landlords</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua.</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-2 benefit">
+				<i class="fa fa-gears"></i>
+			</div>
+			<div class="col-md-10">
+				<h4>Benefit for landlords</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua.</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-2 benefit">
+				<i class="fa fa-gears"></i>
+			</div>
+			<div class="col-md-10">
+				<h4>Benefit for landlords</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua.</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-2 benefit">
+
+			</div>
+			<div class="col-md-10">
+				<div class="form-group">
+				<%= link_to "Get your building on Abohd", signin_path, :class => 'btn btn-lg btn-primary' %>
+				</div>
+			</div>
+		</div>
 	</div>
-	<div class="col-md-4">
-		<br><br><br><br>
-
-
-		<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-
-
-		  <!-- Wrapper for slides -->
-		  <div class="carousel-inner">
-		    <div class="item active">
-		    	<h3>Does something cool</h3>
-		    	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-		    	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-		    	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-		    	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-		    	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-		    	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-		    </div>
-		    <div class="item">
-		    	<h3>Does something cool again</h3>
-		    	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-		    	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-		    	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-		    	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-		    	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-		    	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-		    </div>
-		    <div class="item">
-		    	<h3>The something cool</h3>
-		    	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-		    	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-		    	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-		    	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-		    	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-		    	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-		    </div>
-
-		  </div>
-		  <!-- Indicators -->
-		  <ol class="carousel-indicators">
-		    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-		    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-		    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-		  </ol>
-
-
-		</div><!--slide-->
-		<div class="form-group">
-		<a href="#" class="btn btn-primary btn-lg"><i class="fa fa-apple"></i> Available on the app store</a>
+	<div class="col-md-6">
+		<div class="page-header">
+			<h3>For Tenants</h3>
+		</div>
+		<div class="row">
+			<div class="col-md-2 benefit">
+				<i class="fa fa-cloud-upload"></i>
+			</div>
+			<div class="col-md-10">
+				<h4>Benefit for tenants</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua.</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-2 benefit">
+				<i class="fa fa-cloud-upload"></i>
+			</div>
+			<div class="col-md-10">
+				<h4>Benefit for tenants</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua.</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-2 benefit">
+				<i class="fa fa-cloud-upload"></i>
+			</div>
+			<div class="col-md-10">
+				<h4>Benefit for tenants</h4>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua.</p>
+			</div>
 		</div>
 
+		<div class="row">
+			<div class="col-md-2 benefit">
+
+			</div>
+			<div class="col-md-10">
+				<div class="form-group">
+				<a href="#" class="btn btn-primary btn-lg"><i class="fa fa-apple"></i> Available on the app store</a>
+				</div>
+			</div>
+		</div>
+
+		
+
 	</div>
+</div>
 </div>
 
 </div>
-</div>
+
+<script type="text/javascript">
+	$("#learnMore").click(function(){
+	    $(document.body).animate({
+	        "scrollTop": $("#side-by-side").offset().top
+	    }, 800); // animation time and easing
+	    return false; // preventing default jump
+	});
+</script>
