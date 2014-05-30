@@ -5,7 +5,7 @@
 <div class="row">
 <div class="col-md-4">
 <div class="form-group">
-	<input class="form-control input-sm" placeholder="search">
+	<input class="form-control" placeholder="search">
 </div>
 </div>
 </div>
@@ -17,8 +17,10 @@
 		<th>Address</th>
 		<th>City</th>
 		<th>State</th>
-		<th>Zip</th>
+
 		<th>Rent</th>
+		<th></th>
+		<th></th>
 	</thead>
 	<tbody>
 		<tr>
@@ -26,9 +28,9 @@
 			<td>123 Barrington Ave.</td>
 			<td>Brentwood</td>
 			<td>CA</td>
-			<td>90230</td>
 			<td><span class="text-success"><i class="fa fa-check"></i> 4</span> / <span class="text-danger"><i class="fa fa-minus-circle"></i> 1</span></td>
-			<td><%= link_to "View", propertydetail_path, :class => 'btn btn-sm btn-primary'%></td>
+			<td><%= link_to "Details", propertydetail_path, :class => 'btn btn-sm btn-primary'%></td>
+			<td><%= link_to "Community", community_path, :class => 'btn btn-sm btn-default'%></td>
 		</tr>
 		
 	</tbody>
